@@ -12,7 +12,6 @@
 - I specialize in **NLP, Deep Learning, Generative AI and Distributed AI**.
 - My thesis focused on the **adaptive identification of nonlinear time-varying NARX systems**.
 - I work with **Python, C, Java and SQL**, and build systems around **LLMs, recommendation engines and algorithms**.
-- Based in Safi, Morocco.
 
 ---
 
@@ -49,6 +48,10 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ichrakzouriqi&show_icons=true&theme=radical&include_all_commits=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichrakzouriqi&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ichrakzouriqi&theme=radical&hide_border=true" />
 </p>
 
 ---

@@ -38,6 +38,17 @@ Pandas · NumPy · Jupyter · Natural Language Processing · Deep Learning · Ge
 ### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1chraak&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chraak&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=1chraak&theme=radical&hide_border=true" />
+</p>
+
 ## Contact
 
 **Email**: ichrakzouriqi@gmail.com

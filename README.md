@@ -11,7 +11,7 @@
 - Master's graduate in **Data Science & Analytics** (Université Cadi Ayyad, 2026) and student at **1337 Benguerir (UM6P)**, 42 Network.
 - I specialize in **NLP, Deep Learning, Generative AI and Distributed AI**.
 - My thesis focused on the **adaptive identification of nonlinear time-varying NARX systems**.
-- I work with **Python, C, Java and SQL**, and build systems around **LLMs, recommendation engines and algorithms**.
+- I work with **Python, C, C++, Java, JavaScript and SQL**, and build systems around **LLMs, recommendation engines and algorithms**.
 
 ---
 

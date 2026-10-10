@@ -27,13 +27,16 @@
 ### Languages
 <img src="https://skillicons.dev/icons?i=c,py,java,js,html,css" />
 
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+
 ### Data & AI
-<img src="https://skillicons.dev/icons?i=py,numpy,pandas,sklearn,jupyter" />
+<img src="https://skillicons.dev/icons?i=py,sklearn" />
 
-Natural Language Processing · Deep Learning · Generative AI · Distributed AI · Machine Learning · Speech Processing
+Pandas · NumPy · Jupyter · Natural Language Processing · Deep Learning · Generative AI · Distributed AI · Machine Learning · Speech Processing
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 
 ## GitHub Stats
 
